@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thibaultMA/hello_world/issues"
   },
-  "homepage": "https://github.com/thibaultMA/hello_world#readme"
+  "homepage": "https://github.com/thibaultMA/hello_world#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
 }
